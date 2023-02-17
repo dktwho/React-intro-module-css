@@ -1,0 +1,19 @@
+.info {
+  border: 2px solid gray;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 40%;
+  margin: 20px auto;
+}
+
+.myOtherButton {
+  background-color: coral;
+}
+
+.myOtherButton2 {
+  background-color: rgb(180, 12, 130);
+}
+
+h2 {
+  color: blue;
+}
